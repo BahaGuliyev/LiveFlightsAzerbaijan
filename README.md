@@ -1,1 +1,1 @@
-This app is based on the motion of the plane by applying simple physics.
+This app was developed in Unity based on the movement of the plane with the application of simple physics.
