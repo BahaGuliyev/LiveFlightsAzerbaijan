@@ -23,7 +23,7 @@ namespace LiveFlightsAzerbaijan
         {
             InitializeComponent();
         }
-        static RestClient client = new RestClient("https://airlabs.co/api/v9/flights?api_key=201271ad-b825-418a-86b4-9ff192dacadc&bbox=38.3929551,44.7633701,41.9502947,51.0090302");
+        static RestClient client = new RestClient("https://airlabs.co/api/v9/flights?api_key=MY_API_KEY&bbox=38.3929551,44.7633701,41.9502947,51.0090302");
 
         static RestRequest request = new RestRequest();
 
